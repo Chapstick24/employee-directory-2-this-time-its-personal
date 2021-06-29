@@ -1,4 +1,9 @@
+#Links
 
+https://chapstick24.github.io/employee-directory-2-this-time-its-personal/
+
+
+https://github.com/Chapstick24/employee-directory-2-this-time-its-personal
 
 
 
